@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## A pair of functions to calculate the inverse of matrix
 
 ## Creating a special "vector", which is a list containing set and get functions
 
